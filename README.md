@@ -3,4 +3,5 @@
 **This project uses machine learning and NLP to detect and classify reviews as real or fake, helping platforms maintain authenticity. Fake reviews are often written to mimic natural language, making them hard to detect with traditional keyword filters.Natural Language Processing (NLP) lets us break down and analyze text data — turning raw reviews into structured input for machine learning.**
 
 By: Ismail Peracha and Helen Truong, 
+
 CPSC 483: Introduction to Machine Learning
