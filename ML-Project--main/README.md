@@ -1,0 +1,3 @@
+**Online reviews heavily influence consumer decisions in today’s digital marketplace. Unfortunately, fake reviews are on the rise — written to unfairly promote or discredit products and services. These deceptive reviews erode trust, mislead buyers, and hurt platform credibility.**
+
+**This project uses machine learning and NLP to detect and classify reviews as real or fake, helping platforms maintain authenticity. Fake reviews are often written to mimic natural language, making them hard to detect with traditional keyword filters.Natural Language Processing (NLP) lets us break down and analyze text data — turning raw reviews into structured input for machine learning.**
